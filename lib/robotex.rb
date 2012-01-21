@@ -1,7 +1,6 @@
 # Author (2012): Chris Kite
 # Original Author (2008-2011): Kyle Maxwell
 
-require 'rubygems'
 require 'open-uri'
 require 'uri'
 require 'timeout'
